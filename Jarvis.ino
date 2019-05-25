@@ -1,7 +1,5 @@
 #include <Servo.h>
 
-
-
 int r = 90 ;
 
 const int servo1 = 3; //Высота
@@ -13,9 +11,6 @@ const int servo3 = 7;
 const int servo4 = 2;
 
 const int joyH = 0; // выход L/R джойстика Parallax
-
-
-
 
 const int joyV = 1; // выход U/D джойстика Parallax
 
